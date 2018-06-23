@@ -8,5 +8,4 @@ COCOS 学习总结
 |Author|雀起惊风|
 |---|---
 |E-mail|gejinnian224@outlook.com
-|---|---
 |我的博客|https://mp.csdn.net/postedit
